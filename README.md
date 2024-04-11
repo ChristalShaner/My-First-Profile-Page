@@ -14,3 +14,5 @@ I have not purchased a web domain for it, it will remain code.
 That said, this project can be saved and opened using any web browser. 
 
 If you have any questions about the content or the code, please let me know. Thank you for reading.
+
+<img width="1434" alt="Screenshot 2024-04-10 at 10 42 17 PM" src="https://github.com/ChristalShaner/My-First-Profile-Page/assets/162538558/aeb3c01f-8833-4cef-b0bf-a806e86c1251">
