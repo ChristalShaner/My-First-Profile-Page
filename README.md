@@ -11,7 +11,8 @@ Yes, the timeline is accurate! The formatting is not perfect; but since it is st
 
 This code is written in HTML5, and uses CSS for the styling elements. 
 I have not purchased a web domain for it, it will remain code.
-That said, this project can be saved and opened using any web browser. 
+
+That said, feel free to check it out on GitHub Pages! Link <a href=" https://christalshaner.github.io/My-First-Profile-Page/">here.</a>
 
 If you have any questions about the content or the code, please let me know. Thank you for reading.
 
